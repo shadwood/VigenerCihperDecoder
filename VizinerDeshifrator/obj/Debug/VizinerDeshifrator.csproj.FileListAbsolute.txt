@@ -1,0 +1,6 @@
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Debug\VizinerDeshifrator.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Debug\VizinerDeshifrator.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Debug\VizinerDeshifrator.csprojResolveAssemblyReference.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Debug\VizinerDeshifrator.csproj.CoreCompileInputs.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Debug\VizinerDeshifrator.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Debug\VizinerDeshifrator.pdb

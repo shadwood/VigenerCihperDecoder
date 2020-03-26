@@ -1,0 +1,12 @@
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Release\VizinerDeshifrator.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Release\VizinerDeshifrator.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.csproj.CoreCompileInputs.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.csprojResolveAssemblyReference.cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Release\VizinerDeshifrator.exe
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\bin\Release\VizinerDeshifrator.pdb
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.csprojResolveAssemblyReference.cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.csproj.CoreCompileInputs.cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.exe
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VizinerDeshifrator\VizinerDeshifrator\obj\Release\VizinerDeshifrator.pdb
